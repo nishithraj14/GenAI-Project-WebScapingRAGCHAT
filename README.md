@@ -1,5 +1,26 @@
 # Multi PDF Rag Chatbot built on Web Scraping
 
+
+# 🚀 Live Demo – Multi-PDF Web-Scraping RAG Chatbot
+
+👉 https://genai-project-chatscholar-4op98aa2kqklfszrgedmpe.streamlit.app/
+
+> ⚠️ This is a deployed Streamlit demo (free tier).  
+> The application may take ~15–30 seconds to wake up after inactivity.
+
+### Demo Scope
+This live demo allows recruiters and users to:
+
+- Chat with multiple PDFs using Retrieval-Augmented Generation (RAG)
+- View grounded answers strictly sourced from documents
+- Experience conversational memory-aware document querying
+- Explore the system without any local setup
+
+> The full production implementation (Flask + FAISS + LangChain pipeline) is available in this repository for local deployment and extensibility.
+
+---
+
+
 ## Problem Statement
 The growth of e-commerce platforms has led to a vast array of products and services, making it difficult for customers to find relevant information quickly. Traditional search mechanisms often fall short in delivering personalized and specific responses to customer queries. This causes frustration and longer response times, leading to potential loss in sales or customer dissatisfaction.
  Context:
