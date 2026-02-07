@@ -8,6 +8,10 @@
 > ⚠️ This is a deployed Streamlit demo (free tier).  
 > The application may take ~15–30 seconds to wake up after inactivity.
 
+
+![multipdfgif](https://github.com/user-attachments/assets/d52672eb-3a81-4922-a132-b544cf6a5dcf)
+
+
 ### Demo Scope
 This live demo allows recruiters and users to:
 
